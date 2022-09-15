@@ -15,4 +15,13 @@ router.post('/notes', (req, res) => {
   })
 });
 
+router.delete('/notes/:id', (req, res) => {
+  store = store.filter(obj => obj.id != req.params.id);
+
+  writeFile('./db/db.json', JSON.stringify(store), err => {
+    if (err) throw err;
+    res.json(store);
+  })
+});
+
 module.exports = router;
