@@ -35,4 +35,4 @@
   ### This application is covered under the [GPL v3.0](https://choosealicense.com/licenses/gpl-3.0/) license.
   
   <img src="./src/note-taker-1.jpeg" width="300" /></br>
-  <img src="./src/note-taker-2.jpeg" width="300 />
+  <img src="./src/note-taker-2.jpeg" width="300" />
