@@ -12,7 +12,8 @@
   - [License](#license)
 
   ## Description 
-  Note Taker is geared towards small business owners who need a no-frills tool to organize ideas and track tasks.
+  Note Taker is geared towards small business owners who need a no-frills tool to organize ideas and track tasks.<br><br>
+  N.B.: Bootcamp study project
   
   ## Installation 
   <br>1. Node.js (npm init)</br>2. npm i express@4.16.4</br>3. npm i uuid@9.0.0
